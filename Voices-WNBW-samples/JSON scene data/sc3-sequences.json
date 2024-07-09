@@ -1,0 +1,224 @@
+[
+  {
+    "seqNum": 1,
+    "display": true,
+    "_id": "MfwUaFZj96ev7w4QbiYL",
+    "__metadata": {
+      "segments": [
+        "voices-v1-scenes",
+        "M8Wz2ETc0EKpOvZrSedu",
+        "sequences",
+        "MfwUaFZj96ev7w4QbiYL"
+      ]
+    },
+    "convoturns": [
+      {
+        "lexia": "Damn bosses! How about keeping it trim when it comes to home time? Gonna miss my bus.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "GET IN SHAPE & BE HEALTHY",
+        "voiceType": "PosterAd"
+      },
+      {
+        "lexia": "I should run.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "I look stupid running.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "I'm not running. I can't run. Gonna miss my bus.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "MEAT FEAST PLATTER",
+        "voiceType": "PosterAd"
+      },
+      {
+        "lexia": "Won't have much time to eat. Frankie's coming. Can't be late.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "DELICIOUS AND DELIVERED",
+        "voiceType": "PosterAd"
+      },
+      {
+        "lexia": "Maybe share a pizza?",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Share? Gotta be kidding.",
+        "voiceType": "InnerCritic"
+      },
+      {
+        "lexia": "THE NEW QUARTER POUNDER DELUXE",
+        "voiceType": "PosterAd"
+      },
+      {
+        "lexia": "Man coming towards me. What's he staring at?",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Fat belly.",
+        "voiceType": "InnerCritic"
+      },
+      {
+        "lexia": "Eyes down.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "I should've worn my big coat. He's smirking.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Fat thighs.",
+        "voiceType": "InnerCritic"
+      },
+      {
+        "lexia": "Should be covered up more.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Disgusting.",
+        "voiceType": "InnerCritic"
+      },
+      {
+        "lexia": "Stop it! I'm not.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "I should move out of the way. Step into the alley so he can pass.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "There's my bus!",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "ponder": [
+          {
+            "lexia": "Let him walk past first then run.",
+            "goToSequence": 2,
+            "docilityValue": 1,
+            "displaySequences": [
+              2
+            ]
+          },
+          {
+            "lexia": "Hurry! Push past him.",
+            "goToSequence": 3,
+            "docilityValue": 0,
+            "displaySequences": [
+              3
+            ]
+          }
+        ],
+        "voiceType": "HayleyPonders"
+      }
+    ]
+  },
+  {
+    "goToScNum": 4,
+    "seqNum": 2,
+    "display": false,
+    "goToSceneID": "gykt6bKGIeVF7kDLdFqT",
+    "_id": "lCRyr0p00NgYxwrvL0kp",
+    "__metadata": {
+      "segments": [
+        "voices-v1-scenes",
+        "M8Wz2ETc0EKpOvZrSedu",
+        "sequences",
+        "lCRyr0p00NgYxwrvL0kp"
+      ]
+    },
+    "convoturns": [
+      {
+        "lexia": "Let him walk past.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Now run.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Can't run!",
+        "voiceType": "InnerCritic"
+      },
+      {
+        "lexia": "Gotta run. Can't be late.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "WORLD'S /#1 FITNESS DESTINATION",
+        "voiceType": "PosterAd"
+      },
+      {
+        "lexia": "Huffing and puffing like a Heffalump!",
+        "voiceType": "InnerCritic"
+      },
+      {
+        "lexia": "Chafing!",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Jiggle. Wobble. Ridiculous!",
+        "voiceType": "InnerCritic"
+      },
+      {
+        "lexia": "If I were thin...",
+        "voiceType": "HayleyThinks"
+      }
+    ]
+  },
+  {
+    "goToScNum": 4,
+    "seqNum": 3,
+    "display": false,
+    "goToSceneID": "gykt6bKGIeVF7kDLdFqT",
+    "_id": "7B8bvdqBsTFtQOvDCqk0",
+    "__metadata": {
+      "segments": [
+        "voices-v1-scenes",
+        "M8Wz2ETc0EKpOvZrSedu",
+        "sequences",
+        "7B8bvdqBsTFtQOvDCqk0"
+      ]
+    },
+    "convoturns": [
+      {
+        "lexia": "Push past him!",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Now he thinks I'm so rude!",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "A rude selfish slob!",
+        "voiceType": "InnerCritic"
+      },
+      {
+        "lexia": "Hurry. Walk faster. Can't be late.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "WORLD'S /#1 FITNESS DESTINATION",
+        "voiceType": "PosterAd"
+      },
+      {
+        "lexia": "Chafing!",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Jiggle. Wobble. Ridiculous!",
+        "voiceType": "InnerCritic"
+      },
+      {
+        "lexia": "If I were thin...",
+        "voiceType": "HayleyThinks"
+      }
+    ]
+  }
+]

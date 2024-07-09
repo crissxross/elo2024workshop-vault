@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"96ef97bc02ec3ff2","type":"link","url":"https://writing-new-bodies.web.app/home","x":-145,"y":-394,"width":400,"height":400},
+		{"id":"a0a53bfda91950eb","type":"text","text":"[Voices](https://writing-new-bodies.web.app/home)","x":-340,"y":-394,"width":134,"height":63},
+		{"id":"05f19fe337e0643b","type":"text","text":"### Voices: an external website","x":-273,"y":-540,"width":353,"height":50},
+		{"id":"6a3ed7b2d3048111","type":"text","text":"[[About Voices]]","x":340,"y":-394,"width":180,"height":60},
+		{"id":"0e9aa92a9fe33cb3","type":"file","file":"Voices-WNBW-samples/About Voices.md","x":560,"y":-394,"width":400,"height":400},
+		{"id":"795a20167981d497","type":"text","text":"### An internal note","x":480,"y":-544,"width":240,"height":54},
+		{"id":"ccc76b1b97f17f9a","type":"text","text":"# Demo Canvas","x":200,"y":-680,"width":254,"height":64},
+		{"id":"82a21a3a17d7b7e0","type":"file","file":"Attachments/voices-cxpic.png","x":255,"y":60,"width":400,"height":400},
+		{"id":"e47c2ef6538c3b0b","x":-273,"y":140,"width":451,"height":120,"type":"text","text":"# Turn a card into a note\n\nRight click on the card and select **Convert to file...**"}
+	],
+	"edges":[
+		{"id":"d1a5e764a17ca7a4","fromNode":"05f19fe337e0643b","fromSide":"bottom","toNode":"a0a53bfda91950eb","toSide":"top","label":"link"},
+		{"id":"667afa11541fda7f","fromNode":"05f19fe337e0643b","fromSide":"bottom","toNode":"96ef97bc02ec3ff2","toSide":"top","label":"embedded"},
+		{"id":"40f60553e97f915f","fromNode":"795a20167981d497","fromSide":"bottom","toNode":"6a3ed7b2d3048111","toSide":"top","label":"link"},
+		{"id":"a6fa608e8101681f","fromNode":"795a20167981d497","fromSide":"bottom","toNode":"0e9aa92a9fe33cb3","toSide":"top","label":"embedded"},
+		{"id":"280bbcad1ce554fa","fromNode":"6a3ed7b2d3048111","fromSide":"bottom","toNode":"82a21a3a17d7b7e0","toSide":"top","label":"internal image"}
+	]
+}

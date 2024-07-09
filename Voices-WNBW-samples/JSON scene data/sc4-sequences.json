@@ -1,0 +1,216 @@
+[
+  {
+    "seqNum": 1,
+    "display": true,
+    "_id": "n4Eae9TFEpRbjsnAWNUt",
+    "__metadata": {
+      "segments": [
+        "voices-v1-scenes",
+        "gykt6bKGIeVF7kDLdFqT",
+        "sequences",
+        "n4Eae9TFEpRbjsnAWNUt"
+      ]
+    },
+    "convoturns": [
+      {
+        "lexia": "Phew! Made it. No seats? Sweating. Everyone looking. A seat?",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "One there!",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Excuse me, is anyone sitting there?",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "Huh? Oh...",
+        "voiceType": "Commuter"
+      },
+      {
+        "lexia": "HIGH ENERGY, LOW CAL, BIG TASTE",
+        "voiceType": "PosterAd"
+      },
+      {
+        "lexia": "Take your time, why don't you? I know you wanted the whole seat all to yourself but hey...",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Why can't she put her bag on her knee?",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Thanks.",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "She don't wanna be touching blubber thighs.",
+        "voiceType": "InnerCritic"
+      },
+      {
+        "lexia": "Squeeze over a bit.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "She won't give an inch. She's looking at me out of the corner of her eye.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "She thinks I'm gross. I am gross.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Sorry.",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "ping!",
+        "voiceType": "dramatic"
+      },
+      {
+        "lexia": "You busy tonight?",
+        "voiceType": "FrankieMsg"
+      },
+      {
+        "lexia": "It's Frankie.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "No.",
+        "voiceType": "HayleyMsg"
+      },
+      {
+        "lexia": "Remember that bopo dance class? 🕺 I've booked us both on it",
+        "voiceType": "FrankieMsg"
+      },
+      {
+        "lexia": "Oh god no, no, no",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "What?",
+        "voiceType": "HayleyMsg"
+      },
+      {
+        "lexia": "Bopo dancing. Cancellations so I grabbed two places for us. Lucky! 🍀",
+        "voiceType": "FrankieMsg"
+      },
+      {
+        "lexia": "Not sure I can make it.",
+        "voiceType": "HayleyMsg"
+      },
+      {
+        "lexia": "You just said you were free.",
+        "voiceType": "FrankieMsg"
+      },
+      {
+        "lexia": "Think of an excuse!",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "3-in-1 Shapewear with Thinvisible Technology",
+        "voiceType": "SocialMediaAd"
+      },
+      {
+        "lexia": "NO MORE Back Fat. Hooks To Any Bra",
+        "voiceType": "SocialMediaAd"
+      },
+      {
+        "lexia": "Hayley?",
+        "voiceType": "FrankieMsg"
+      },
+      {
+        "lexia": "Nightmare, dancing in public.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "don't think I can make it sorry 😔",
+        "voiceType": "HayleyMsg"
+      },
+      {
+        "lexia": "why?",
+        "voiceType": "FrankieMsg"
+      },
+      {
+        "ponder": [
+          {
+            "lexia": "Make up an excuse",
+            "goToSequence": 2,
+            "docilityValue": 1,
+            "displaySequences": [
+              2
+            ]
+          },
+          {
+            "lexia": "Be honest, I'm scared",
+            "goToSequence": 3,
+            "docilityValue": 0.5,
+            "displaySequences": [
+              3
+            ]
+          }
+        ],
+        "voiceType": "HayleyPonders"
+      }
+    ]
+  },
+  {
+    "goToScNum": 5,
+    "seqNum": 2,
+    "display": false,
+    "convoturns": [
+      {
+        "lexia": "An excuse, quick!",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "It's work stuff. Got to prep for a big thing tomorrow.",
+        "voiceType": "HayleyMsg"
+      },
+      {
+        "lexia": "I'll come round. Maybe I can help.",
+        "voiceType": "FrankieMsg"
+      }
+    ],
+    "goToSceneID": "qs6MVON01e7APp4mBHhd",
+    "_id": "bNIP5AFNWUOCMLoPMCUF",
+    "__metadata": {
+      "segments": [
+        "voices-v1-scenes",
+        "gykt6bKGIeVF7kDLdFqT",
+        "sequences",
+        "bNIP5AFNWUOCMLoPMCUF"
+      ]
+    }
+  },
+  {
+    "goToScNum": 5,
+    "seqNum": 3,
+    "display": false,
+    "convoturns": [
+      {
+        "lexia": "I'm scared.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "I can't face it, dancing in public.",
+        "voiceType": "HayleyMsg"
+      },
+      {
+        "lexia": "I'll come round. We'll talk. No pressure. ok?",
+        "voiceType": "FrankieMsg"
+      }
+    ],
+    "goToSceneID": "qs6MVON01e7APp4mBHhd",
+    "_id": "AmJv9yW085jCnHfTNfs5",
+    "__metadata": {
+      "segments": [
+        "voices-v1-scenes",
+        "gykt6bKGIeVF7kDLdFqT",
+        "sequences",
+        "AmJv9yW085jCnHfTNfs5"
+      ]
+    }
+  }
+]

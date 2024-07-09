@@ -1,0 +1,98 @@
+[
+  {
+    "seqNum": 1,
+    "display": true,
+    "_id": "j50ICLEE5pRsvaB9iW1C",
+    "__metadata": {
+      "segments": [
+        "voices-v1-scenes",
+        "eVfQqFFqlqcNIMOxN5WC",
+        "sequences",
+        "j50ICLEE5pRsvaB9iW1C"
+      ]
+    },
+    "convoturns": [
+      {
+        "lexia": "Lettuce leaves for lunch again, Shona?",
+        "voiceType": "Gabby"
+      },
+      {
+        "lexia": "Don't want to undo all my hard work. I'm so nearly beach-body ready.",
+        "voiceType": "Shona"
+      },
+      {
+        "lexia": "Just hope I've got a job to come back to after my holiday.",
+        "voiceType": "Shona"
+      },
+      {
+        "lexia": "What's the point in worrying?",
+        "voiceType": "Gabby"
+      },
+      {
+        "lexia": "But downsizing, outsourcing...",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "We've all heard the rumours.",
+        "voiceType": "Shona"
+      },
+      {
+        "lexia": "Well, they can't axe the whole department.",
+        "voiceType": "Gabby"
+      },
+      {
+        "lexia": "Yeah. Think positive. It might not be us that gets the chop.",
+        "voiceType": "Shona"
+      },
+      {
+        "lexia": "Focus on goals. You only fail when you stop trying.",
+        "voiceType": "Gabby"
+      },
+      {
+        "lexia": "Oh, give it a rest, Gabby. It's not a workout. It's work!",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "Success isn't given, it's earned. On the track, in the gym, on the job. It's all the same.",
+        "voiceType": "Gabby"
+      },
+      {
+        "lexia": "Survival of the fittest.",
+        "voiceType": "Shona"
+      },
+      {
+        "lexia": "Flabby, fat, unfit for purpose.",
+        "voiceType": "InnerCritic"
+      },
+      {
+        "lexia": "Got to get in shape. Got to look the part.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Aren't you eating, Hayley?",
+        "voiceType": "Gabby"
+      },
+      {
+        "lexia": "Have a skinny salad with me.",
+        "voiceType": "Shona"
+      },
+      {
+        "ponder": [
+          {
+            "goToScNum": 11,
+            "lexia": "Gonna skip lunch",
+            "docilityValue": 1,
+            "goToSceneID": "lNK7j28I9wJU1pSNQgkh"
+          },
+          {
+            "goToScNum": 11,
+            "lexia": "What's the point? Gonna pig out.",
+            "docilityValue": 0.5,
+            "goToSceneID": "lNK7j28I9wJU1pSNQgkh"
+          }
+        ],
+        "voiceType": "HayleyPonders"
+      }
+    ]
+  }
+]

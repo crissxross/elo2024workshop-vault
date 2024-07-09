@@ -1,0 +1,180 @@
+[
+  {
+    "seqNum": 1,
+    "display": true,
+    "_id": "JIEWWOdUeA4dSNatze4G",
+    "__metadata": {
+      "segments": [
+        "voices-v1-scenes",
+        "1SviRAAxWNCRBgOGEeB2",
+        "sequences",
+        "JIEWWOdUeA4dSNatze4G"
+      ]
+    },
+    "convoturns": [
+      {
+        "lexia": "I don't know why we eat here, no healthy choices.",
+        "voiceType": "Shona"
+      },
+      {
+        "lexia": "And so much throwaway plastic!",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "Beats eating at your desk.",
+        "voiceType": "Gabby"
+      },
+      {
+        "lexia": "Yes but... Think of the planet.",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "They recycle.",
+        "voiceType": "Gabby"
+      },
+      {
+        "lexia": "You don't know that.",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "We're here now.",
+        "voiceType": "Gabby"
+      },
+      {
+        "lexia": "You don't have to eat here if you don't want, Hayley.",
+        "voiceType": "Shona"
+      },
+      {
+        "lexia": "Don't want to eat on my own. Stuff my face on my own.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "I oughta have salad.",
+        "voiceType": "Shona"
+      },
+      {
+        "lexia": "Me too.",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "Cheeseburger for me... and an energy bar.",
+        "voiceType": "Gabby"
+      },
+      {
+        "lexia": "How do you do it, Gabby? If I ate that...",
+        "voiceType": "Shona"
+      },
+      {
+        "lexia": "I don't diet, Shona, I just eat according to my goals.",
+        "voiceType": "Gabby"
+      },
+      {
+        "lexia": "Cheeseburger? mmm...",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Fat, fat, fat.",
+        "voiceType": "InnerCritic"
+      },
+      {
+        "lexia": "Another gym challenge, Gabby? You're crazy.",
+        "voiceType": "Shona"
+      },
+      {
+        "lexia": "Yeah, well, you know what they say, Shona. Look like a beauty, train like a beast.",
+        "voiceType": "Gabby"
+      },
+      {
+        "lexia": "And if you look like a beast?",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "I'd rather count calories. But if it works for you, Gabby, go for it.",
+        "voiceType": "Shona"
+      },
+      {
+        "lexia": "Hey, talking of goals, I'm only four pounds away from my beach body goal.",
+        "voiceType": "Shona"
+      },
+      {
+        "lexia": "I'm gonna make that cheating ex of mine soooo jealous.",
+        "voiceType": "Shona"
+      },
+      {
+        "lexia": "Ha! Sweet revenge body?",
+        "voiceType": "Gabby"
+      },
+      {
+        "lexia": "You bet. Two weeks' time I'm gonna be on those golden sands posting selfies to die for and he's gonna be so sick he dumped me.",
+        "voiceType": "Shona"
+      },
+      {
+        "lexia": "He didn't deserve you, Shona.",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "But don't get me wrong, I'm not doing it for him, I'm doing it for me.",
+        "voiceType": "Shona"
+      },
+      {
+        "lexia": "Who's she trying to kid?",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Of course you are. What you having, Hayley?",
+        "voiceType": "Gabby"
+      },
+      {
+        "lexia": "Maybe just a diet cola.",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "Will power. Impressive",
+        "voiceType": "Shona"
+      },
+      {
+        "lexia": "Who am I trying to kid?",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "What? You crazy?",
+        "voiceType": "Gabby"
+      },
+      {
+        "lexia": "No really, I had a big breakfast. I'm not hungry.",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "Liar.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Have salad with me.",
+        "voiceType": "Shona"
+      },
+      {
+        "ponder": [
+          {
+            "goToScNum": 3,
+            "lexia": "Salad?",
+            "docilityValue": 0.8,
+            "goToSceneID": "M8Wz2ETc0EKpOvZrSedu"
+          },
+          {
+            "goToScNum": 3,
+            "lexia": "Cheeseburger?",
+            "docilityValue": 0,
+            "goToSceneID": "M8Wz2ETc0EKpOvZrSedu"
+          },
+          {
+            "goToScNum": 3,
+            "lexia": "Skip lunch?",
+            "docilityValue": 1,
+            "goToSceneID": "M8Wz2ETc0EKpOvZrSedu"
+          }
+        ],
+        "voiceType": "HayleyPonders"
+      }
+    ]
+  }
+]

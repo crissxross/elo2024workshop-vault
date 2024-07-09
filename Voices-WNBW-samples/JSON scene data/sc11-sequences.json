@@ -1,0 +1,123 @@
+[
+  {
+    "seqNum": 1,
+    "display": true,
+    "goToSceneID": "LRyVRkJvW7EWajsUg267",
+    "_id": "r7Ca7dMN9HQeQBnHlvnK",
+    "__metadata": {
+      "segments": [
+        "voices-v1-scenes",
+        "lNK7j28I9wJU1pSNQgkh",
+        "sequences",
+        "r7Ca7dMN9HQeQBnHlvnK"
+      ]
+    },
+    "goToScNum": 12,
+    "convoturns": [
+      {
+        "lexia": "Well, if I get laid off, I won't have to do this commute anymore.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Do you mind if I sit here?",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "Sure.",
+        "voiceType": "Commuter"
+      },
+      {
+        "lexia": "Do you mind? Why ask that?",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "She doesn't mind. Why would she mind?",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "No one wants a fat flabby lump sitting...",
+        "voiceType": "InnerCritic"
+      },
+      {
+        "lexia": "Shut up!",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "If I get laid off, I'll have to...",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "I won't get laid off.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Dead weight.",
+        "voiceType": "InnerCritic"
+      },
+      {
+        "lexia": "I'm not!",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "But I should lose weight. It doesn't look good.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Looks lazy.",
+        "voiceType": "InnerCritic"
+      },
+      {
+        "lexia": "Unprofessional.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Only the fittest survive.",
+        "voiceType": "InnerCritic"
+      },
+      {
+        "lexia": "I should join a gym. Like Gabby.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "But gym clothes!",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Never!",
+        "voiceType": "InnerCritic"
+      },
+      {
+        "lexia": "ping!",
+        "voiceType": "dramatic"
+      },
+      {
+        "lexia": "Party party! Happy birthday Mei! 🥳",
+        "voiceType": "FrankieMsg"
+      },
+      {
+        "lexia": "@Mei happy birthday!!! 🎂 🎉",
+        "voiceType": "DeeMsg"
+      },
+      {
+        "lexia": "Whoop whoop! So excited! 🎉 🎉 🎉",
+        "voiceType": "EmilyMsg"
+      },
+      {
+        "lexia": "Oh god no.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Happy birthday Mei 😘 xxxx",
+        "voiceType": "HayleyMsg"
+      },
+      {
+        "lexia": "Thx c u guys later. Can't wait! 🤩",
+        "voiceType": "MeiMsg"
+      },
+      {
+        "lexia": "Can't, can't... can't go!",
+        "voiceType": "HayleyThinks"
+      }
+    ]
+  }
+]

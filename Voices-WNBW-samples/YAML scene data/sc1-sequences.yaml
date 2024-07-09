@@ -1,0 +1,120 @@
+- seqNum: 1
+  display: true
+  _id: 9UE1lHWGASHrJRvrKpaA
+  __metadata:
+    segments:
+      - voices-v1-scenes
+      - CpBFKZ4vbJKp9j8P6clE
+      - sequences
+      - 9UE1lHWGASHrJRvrKpaA
+  convoturns:
+    - lexia: Why do they make them like this?
+      voiceType: HayleyThinks
+    - lexia: Wish it was stretchy. Better for sitting all day.
+      voiceType: HayleyThinks
+    - lexia: Horrible muffin top.
+      voiceType: InnerCritic
+    - lexia: Stop it!
+      voiceType: HayleyThinks
+    - lexia: Come on. Fingers on keyboard.
+      voiceType: HayleyThinks
+    - lexia: Does this shirt hide it? Pull it down. Cover it.
+      voiceType: HayleyThinks
+    - lexia: Huh, fat chance.
+      voiceType: InnerCritic
+    - lexia: Come on. Focus.
+      voiceType: HayleyThinks
+    - lexia: Too tight. Why the hell did I wear these chinos for work? Would anyone notice if I unbuttoned?
+      voiceType: HayleyThinks
+    - lexia: Relief!
+      voiceType: HayleyThinks
+    - lexia: Okay. Cost benefit...
+      voiceType: HayleyThinks
+    - lexia: Now the zip's pinching.
+      voiceType: HayleyThinks
+    - lexia: Hayley, a word?
+      voiceType: Manager
+    - lexia: Oh no. Did she see?
+      voiceType: HayleyThinks
+- seqNum: 2
+  display: true
+  _id: WOFXwCMhduF8zMozndJV
+  __metadata:
+    segments:
+      - voices-v1-scenes
+      - CpBFKZ4vbJKp9j8P6clE
+      - sequences
+      - WOFXwCMhduF8zMozndJV
+  convoturns:
+    - lexia: The cost benefit analysis for Q3, how's it going? I need it ASAP.
+      voiceType: Manager
+    - lexia: Sure. Yes, Tracey. Nearly done.
+      voiceType: HayleySays
+    - lexia: Let me see the figures. How's it shaping up?
+      voiceType: Manager
+    - lexia: It's a bit over.
+      voiceType: HayleySays
+    - lexia: That won't do. You need to downsize somewhere.
+      voiceType: Manager
+    - lexia: Zip's going.
+      voiceType: HayleyThinks
+    - lexia: How about cutting some of this? That's excess to requirements.
+      voiceType: Manager
+    - lexia: But that's the carbon neutral...
+      voiceType: HayleySays
+    - lexia: Don't worry. Downsizing looks better.
+      voiceType: Manager
+    - lexia: Oh my god, there goes Cheryl from HR. What does she think she looks like?
+      voiceType: Manager
+    - lexia: A woman of her size should not be wearing clingy clothes.
+      voiceType: Manager
+    - lexia: Is she fatter than me?
+      voiceType: HayleyThinks
+    - lexia: So inappropriate, especially for the office. Does she ever look in the mirror?
+      voiceType: Manager
+    - lexia: Never look in the mirror.
+      voiceType: HayleyThinks
+    - lexia: Ugh! Anyway, back to the figures...
+      voiceType: Manager
+    - lexia: I'll downsize, yes.
+      voiceType: HayleySays
+    - lexia: Downsize me. Fat chance.
+      voiceType: InnerCritic
+    - lexia: Good. We want a lean operation. Any excess smacks of inefficiency and we don't want that do we, Hayley?
+      voiceType: Manager
+    - lexia: No, Tracey.
+      voiceType: HayleySays
+    - lexia: She's looking at my belly. She thinks I'm inefficient.
+      voiceType: HayleyThinks
+    - lexia: So, when can I have it?
+      voiceType: Manager
+    - lexia: Soon.
+      voiceType: HayleySays
+    - lexia: Soon? Come on, Hayley. Clarity.
+      voiceType: Manager
+    - lexia: In thirty minutes.
+      voiceType: HayleySays
+    - lexia: No later. Keep it trim.
+      voiceType: Manager
+    - lexia: Yes, Tracey.
+      voiceType: HayleySays
+    - lexia: She thinks I'm fat. She saw me undo my waistband.
+      voiceType: HayleyThinks
+    - lexia: I'm unprofessional.
+      voiceType: HayleyThinks
+    - lexia: Belly blubber, ugh. I'll never be successful.
+      voiceType: HayleyThinks
+    - ponder:
+        - goToScNum: 2
+          lexia: I should diet
+          docilityValue: 1
+          goToSceneID: 1SviRAAxWNCRBgOGEeB2
+        - goToScNum: 2
+          lexia: I should exercise more
+          docilityValue: 1
+          goToSceneID: 1SviRAAxWNCRBgOGEeB2
+        - goToScNum: 2
+          lexia: I should work harder
+          docilityValue: 0.5
+          goToSceneID: 1SviRAAxWNCRBgOGEeB2
+      voiceType: HayleyPonders

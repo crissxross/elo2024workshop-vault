@@ -1,0 +1,97 @@
+[
+  {
+    "seqNum": 1,
+    "display": true,
+    "_id": "tPkAY46hkJzDHuUpSlOt",
+    "__metadata": {
+      "segments": [
+        "voices-v1-scenes",
+        "nRXAW5UGmEG0gpeHdBtV",
+        "sequences",
+        "tPkAY46hkJzDHuUpSlOt"
+      ]
+    },
+    "convoturns": [
+      {
+        "lexia": "Improving efficiency. Streamlining. We all know what that means.",
+        "voiceType": "Gabby"
+      },
+      {
+        "lexia": "Layoffs.",
+        "voiceType": "Shona"
+      },
+      {
+        "lexia": "You think so?",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "Isn't it obvious? You've been trimming the figures, Hayley.",
+        "voiceType": "Gabby"
+      },
+      {
+        "lexia": "Trimming figures",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "A tiny piece of the puzzle, Gabby. I don't get to see the big picture.",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "Lean and agile. That's all they talk about.",
+        "voiceType": "Gabby"
+      },
+      {
+        "lexia": "Lean and agile?",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Fat and sluggish.",
+        "voiceType": "InnerCritic"
+      },
+      {
+        "lexia": "They're looking for dead weight to cut.",
+        "voiceType": "Shona"
+      },
+      {
+        "lexia": "Dead weight",
+        "voiceType": "InnerCritic"
+      },
+      {
+        "lexia": "Like me?",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "I'm going to lose my job.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "No one wants a blubber butt on their team.",
+        "voiceType": "InnerCritic"
+      },
+      {
+        "lexia": "Shut up! But...",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "ponder": [
+          {
+            "goToScNum": 10,
+            "lexia": "I should work harder",
+            "goToSceneID": "eVfQqFFqlqcNIMOxN5WC"
+          },
+          {
+            "goToScNum": 10,
+            "lexia": "I should look more professional",
+            "goToSceneID": "eVfQqFFqlqcNIMOxN5WC"
+          },
+          {
+            "goToScNum": 10,
+            "lexia": "Nothing I can do but wait.",
+            "goToSceneID": "eVfQqFFqlqcNIMOxN5WC"
+          }
+        ],
+        "voiceType": "HayleyPonders"
+      }
+    ]
+  }
+]

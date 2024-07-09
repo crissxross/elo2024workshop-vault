@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1719924550346,
+      "path": "START HERE.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1719924574966,
+      "path": "Slides.md"
+    },
+    {
+      "type": "folder",
+      "ctime": 1719924609592,
+      "path": "Voices-WNBW-samples"
+    },
+    {
+      "type": "graph",
+      "ctime": 1720518863025,
+      "title": "Voices Story Graph",
+      "options": {
+        "collapse-filter": false,
+        "search": "path:Voices-WNBW-samples/Story  ",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": true,
+        "colorGroups": [],
+        "collapse-display": true,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": false,
+        "centerStrength": 0.518713248970312,
+        "repelStrength": 10,
+        "linkStrength": 1,
+        "linkDistance": 250,
+        "scale": 0.8021274189267926,
+        "close": true
+      }
+    }
+  ]
+}

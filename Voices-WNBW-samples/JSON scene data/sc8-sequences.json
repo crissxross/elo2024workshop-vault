@@ -1,0 +1,362 @@
+[
+  {
+    "seqNum": 1,
+    "display": true,
+    "_id": "1Y1t5ZIqw9Ys0vKKIkot",
+    "__metadata": {
+      "segments": [
+        "voices-v1-scenes",
+        "oDOGhyyovyEFIpSLnzKf",
+        "sequences",
+        "1Y1t5ZIqw9Ys0vKKIkot"
+      ]
+    },
+    "convoturns": [
+      {
+        "lexia": "Stupid mirror!",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Pathetic loser",
+        "voiceType": "InnerCritic"
+      },
+      {
+        "lexia": "Shut up! Shut up!",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Can't do it, Frankie.",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "Give it a chance. Just breathe in and out.",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "Now open your eyes...",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "Shut tight.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "and look at your...",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "Fat thighs",
+        "voiceType": "InnerCritic"
+      },
+      {
+        "lexia": "No! I can't.",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "You can, Hayley.",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "Flabby belly",
+        "voiceType": "InnerCritic"
+      },
+      {
+        "lexia": "Stop it!",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Can't look, Frankie! Can't! I feel panicky.",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "Oh no. I'm going too fast.",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "I'm sorry. This was a mistake.",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "Told you.",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "I've jumped a few stages. Thrown you in at the deep end.",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "So arrogant! Thinking I could...",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "Hey, Frankie, it's okay.",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "Like a pushy over-excited...",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "Don't beat yourself up.",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "I've really messed up. Probably put you off for good now. My therapist took it way more gradually.",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "Yeah, well...",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "But thanks. Really, I mean it. Thanks for caring.",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "They look so deflated.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Do something.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "So how does the mirror thing help?",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "Don't get me wrong. Not gonna do it. Just curious.",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "Curious? That's good.",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "Is it?",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Well, it's about getting used to looking at your body.",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "Practicing being with your body and letting all the horrible thoughts and feelings come up.",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "Horrible thoughts!? Why the heck...?",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "Well, you can't get rid of them.",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "Wanna bet?",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "And how's that been working for you?",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "Hmmm... It hasn't.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "You know, when you try to get rid of the bad stuff...",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "when you try to push bad thoughts away or push feelings down...",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "they just get worse.",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "It's like trying to keep a beach ball under water. Takes a lot of effort.",
+        "voiceType": "Frankie"
+      }
+    ]
+  },
+  {
+    "display": true,
+    "goToSceneID": "nRXAW5UGmEG0gpeHdBtV",
+    "_id": "P7Hpl2C9sorHG0uRic2n",
+    "__metadata": {
+      "segments": [
+        "voices-v1-scenes",
+        "oDOGhyyovyEFIpSLnzKf",
+        "sequences",
+        "P7Hpl2C9sorHG0uRic2n"
+      ]
+    },
+    "goToScNum": 9,
+    "seqNum": 2,
+    "convoturns": [
+      {
+        "lexia": "Imagine it. You're pushing a beach ball under water, trying to keep it down. What happens if you loosen your grip?",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "It shoots back up again.",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "And then what?",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "Push it down again.",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "You gonna keep on doing that? All day long? That's a lot of struggling.",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "What if you just let it go?",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "It pops up again!",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "Yeah, so let it. What happens then?",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "To the beach ball? It bobs around on the water.",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "And maybe drifts away...",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "Might do, might not. But at least you're not trying to keep it under water and you can focus on something else.",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "Something that's important to you.",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "Like trying to love my body?",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "Ah, but then you're back to pushing the beach ball under water.",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "I don't get you.",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "It's not about turning your body hate thoughts into body love thoughts. That doesn't work.",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "Why not?",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "Because when you force yourself to think positive thoughts, what happens is...",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "they remind you of those negative thoughts you've been trying to get rid of!",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "Oh! So saying, I love my body reminds me that I hate my body?",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "Yes! What's the first thing that pops into your head when I say... positive?",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "Negative.",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "See? Doesn't matter how hard you try to think positive...",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "That's why I don't want to go bopo dancing!",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "I get that. But wouldn't it be fun too? All dancing together.",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "Yes but all those thoughts! Positive turning to negative! No way!",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "But what if you could go dancing and enjoy having fun with me even though the thoughts are still there?",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "Impossible!",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "What if you don't have to focus on them?",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "That annoying beach ball could still be there, bobbing around, but so what? Let it.",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "What if you can focus on the dancing...",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "moving your body, enjoying the music, feeling the rhythm...",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "sensing it all in the moment?",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "Sounds good, but...",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "Jiggling fat!",
+        "voiceType": "InnerCritic"
+      },
+      {
+        "lexia": "Sorry... I don't think I'm ready.",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "Yeah, cuz I messed up! Being a pushy know-it-all!",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "Frankie, don't be so hard on yourself.",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "Hmmm...",
+        "voiceType": "Frankie"
+      },
+      {
+        "lexia": "One of these days, I'll go with you. I promise.",
+        "voiceType": "HayleySays"
+      }
+    ]
+  }
+]

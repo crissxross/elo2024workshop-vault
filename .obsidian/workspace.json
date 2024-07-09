@@ -1,0 +1,303 @@
+{
+  "main": {
+    "id": "b901c642c9db68db",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5d752a87f559a0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58796e46bfc6e1d8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Demo canvas.canvas",
+                "viewState": {
+                  "x": 300.38999999999976,
+                  "y": -85.55999999999958,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "146347931c17357e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Voices-WNBW-samples/Scenes List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cefd01c23eb90a50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sandbox/Workshop exercise.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2465df0a6b118fa6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "9803d21642bf2ded",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "START HERE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf227457f2161c49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Slides.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63a15abbc0975304",
+    "type": "split",
+    "children": [
+      {
+        "id": "6af4a2aa17ebdbff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6062eff0457602c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb6599fff06cd8ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "59cb622c9cf24d29",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236.5
+  },
+  "right": {
+    "id": "3471e7b90e968647",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0a02834d85655d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aca54e39012db4ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "START HERE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bdd91708be2fcd11",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "START HERE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "94176e9753001c25",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "471e12ef4d3202bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "START HERE.md"
+              }
+            }
+          },
+          {
+            "id": "ba037422ee0f7931",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "floating": {
+    "id": "c820751d2a7f82b8",
+    "type": "floating",
+    "children": [
+      {
+        "id": "00fe8ed9dfeb7f02",
+        "type": "window",
+        "children": [
+          {
+            "id": "083e883065dce5a7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "173f038c6085d857",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Voices-WNBW-samples/StoryMapCanvas-1.canvas",
+                    "viewState": {
+                      "x": 2149.1067937618777,
+                      "y": 510.27015890492106,
+                      "zoom": -1.2142680684088434
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 25,
+        "width": 1706,
+        "height": 1415,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "9803d21642bf2ded",
+  "lastOpenFiles": [
+    "Sandbox/Workshop exercise.md",
+    "Demo canvas.canvas",
+    "START HERE.md",
+    "Slides.md",
+    "Card becomes a note.md",
+    "Attachments/iconCreateNewCanvas.svg",
+    "Sandbox/Untitled.md",
+    "Workshop - Starting with Markdown - hypertext authoring system - ELO 2024.md",
+    "Voices-WNBW-samples/Scenes List.md",
+    "Voices-WNBW-samples/Story scenes/sc01.md",
+    "Organising content - tags, folders, etc..md",
+    "Untitled.md",
+    "Voices-WNBW-samples/StoryMapCanvas-1.canvas",
+    "Voices-WNBW-samples/About Voices.md",
+    "Publishing to HTML.md",
+    "Sandbox",
+    "Plugins.md",
+    "Voices-WNBW-samples/Story scenes/sc31.md",
+    "Daily Notes/2024-07-02.md",
+    "Voices-WNBW-samples/The Writing New Body Worlds research project & Voices.md",
+    "Technical Notes/Markdown.md",
+    "Voices-WNBW-samples/All-scenes-YAML.md",
+    "Voices-WNBW-samples/Story scenes/sc55.md",
+    "Voices-WNBW-samples/Story scenes/sc37.md",
+    "Voices-WNBW-samples/Story scenes/sc36.md",
+    "Voices-WNBW-samples/Story scenes/sc24.md",
+    "Technical Notes/YAML + JSON notes.md",
+    "Markdown.md",
+    "Daily Notes/2024-07-03.md",
+    "Daily Notes",
+    "Attachments/voices-cxpic.png",
+    "Technical Notes",
+    "Voices-WNBW-samples/YAML scene data/sc6-sequences.yaml",
+    "Voices-WNBW-samples/YAML scene data/sc6-sequences.json",
+    "Voices-WNBW-samples/YAML scene data/sc1-sequences.yaml",
+    "Voices-WNBW-samples/YAML scene data/sc1-sequences.json",
+    "Voices-WNBW-samples/YAML scene data",
+    "Voices-WNBW-samples/JSON scene data/sc12-sequences.json",
+    "Voices-WNBW-samples/JSON scene data/sc11-sequences.json",
+    "Attachments/Voices-ELO2023.002.jpeg"
+  ]
+}

@@ -1,0 +1,183 @@
+[
+  {
+    "seqNum": 1,
+    "display": true,
+    "_id": "tJltwkOQ6wAScV3WiiYg",
+    "__metadata": {
+      "segments": [
+        "voices-v1-scenes",
+        "LRyVRkJvW7EWajsUg267",
+        "sequences",
+        "tJltwkOQ6wAScV3WiiYg"
+      ]
+    },
+    "goToSceneID": "YAq0gjnZsxoabF6XHCey",
+    "goToScNum": 13,
+    "convoturns": [
+      {
+        "lexia": "This must look awful. Too tight.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Stupid party dress. Whatever made me think... Why did I..?",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Never look good.",
+        "voiceType": "InnerCritic"
+      },
+      {
+        "lexia": "\"She's getting kind of fat isn't she?\"",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Go away!",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Try the black.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Never got anything to wear.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Nothing looks good on me.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Does this cover my butt? Look in the mirror.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Can't. Can't look.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Awful!",
+        "voiceType": "InnerCritic"
+      },
+      {
+        "lexia": "Try something looser.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Oh god! I've got nothing! Nothing to wear.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "ping!",
+        "voiceType": "dramatic"
+      },
+      {
+        "lexia": "Share a taxi to Mei's?",
+        "voiceType": "FrankieMsg"
+      },
+      {
+        "lexia": "Frankie",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "No it's ok you go. I can't",
+        "voiceType": "HayleyMsg"
+      },
+      {
+        "lexia": "Can't what?",
+        "voiceType": "FrankieMsg"
+      },
+      {
+        "lexia": "Can't, can't... Can't go.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Everyone looking great. Me looking like...",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Shit. Never show up at a party. Never.",
+        "voiceType": "InnerCritic"
+      },
+      {
+        "lexia": "phone_rings",
+        "voiceType": "dramatic"
+      },
+      {
+        "lexia": "Don't answer!",
+        "voiceType": "InnerCritic"
+      },
+      {
+        "lexia": "Got to.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Sorry Frankie...",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "What's wrong?",
+        "voiceType": "FrankiePhone"
+      },
+      {
+        "lexia": "Sorry...",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "You're not going to brush me off again?",
+        "voiceType": "FrankiePhone"
+      },
+      {
+        "lexia": "They'll hate me forever.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "No Frankie. It's just that...",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "What?",
+        "voiceType": "FrankiePhone"
+      },
+      {
+        "lexia": "Work stuff. I can't...",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "No excuses, Hayley. What's going on?",
+        "voiceType": "FrankiePhone"
+      },
+      {
+        "lexia": "Hayley, tell them the truth.",
+        "voiceType": "InnerAlly"
+      },
+      {
+        "lexia": "It's... every... Everyone will look fantastic and I... I'm so...",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "gross",
+        "voiceType": "InnerCritic"
+      },
+      {
+        "lexia": "I've got nothing to wear.",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "I never look good.",
+        "voiceType": "HayleyThinks"
+      },
+      {
+        "lexia": "Just wear something you feel comfortable in.",
+        "voiceType": "FrankiePhone"
+      },
+      {
+        "lexia": "There's nothing!",
+        "voiceType": "HayleySays"
+      },
+      {
+        "lexia": "Hayley... I'm coming over.",
+        "voiceType": "FrankiePhone"
+      }
+    ]
+  }
+]
