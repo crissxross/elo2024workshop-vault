@@ -66,5 +66,6 @@ like a digital whiteboard
 written in a single Obsidian note.
 The Slides core plugin enables their presentation.
 [Slides - Obsidian Help](https://help.obsidian.md/Plugins/Slides)
-<small>(right-click on the tab and select **Start presentation**)</small>
+<br>
+<small>(right-click on the tab or click ... More options and select **Start presentation**)</small>
 

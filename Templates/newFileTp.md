@@ -2,5 +2,5 @@
 created: {{date}}
 tags:
 ---
-nav links:
+nav links: 
 

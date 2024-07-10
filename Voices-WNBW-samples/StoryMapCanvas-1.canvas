@@ -9,7 +9,6 @@
 		{"type":"text","text":"  **Focus on job** \n  turning **away** from values","id":"c775f493f8cf374d","x":2568,"y":-444,"width":214,"height":55},
 		{"type":"file","file":"Voices-WNBW-samples/Story scenes/sc20.md","id":"201b9ec0b25180c4","x":1417,"y":-820,"width":400,"height":239},
 		{"type":"file","file":"Voices-WNBW-samples/Story scenes/sc21.md","id":"23da2245e39ffdf3","x":1417,"y":-531,"width":400,"height":255},
-		{"type":"text","text":"Establish Hayley's eco values","id":"ed0df296a2aaeae3","x":872,"y":-433,"width":297,"height":50,"color":"2"},
 		{"type":"text","text":"# DAY THREE to WEEKEND","id":"a240fcd1888605ca","x":1417,"y":-922,"width":400,"height":51,"color":"6"},
 		{"type":"file","file":"Voices-WNBW-samples/Story scenes/sc24.md","id":"f76a49fae6590708","x":1418,"y":415,"width":400,"height":274},
 		{"type":"file","file":"Voices-WNBW-samples/Story scenes/sc23.md","id":"ec898bf2aaca6ed4","x":1417,"y":127,"width":400,"height":244},
@@ -65,7 +64,8 @@
 		{"type":"file","file":"Voices-WNBW-samples/Story scenes/sc19.md","id":"c49587a1d3fe8e93","x":306,"y":2075,"width":400,"height":249},
 		{"id":"f7662c4e04bc4a60","type":"file","file":"Voices-WNBW-samples/Story scenes/sc38.md","x":3459,"y":1923,"width":257,"height":222,"color":"5"},
 		{"id":"7d60747fd15e8cec","type":"file","file":"Voices-WNBW-samples/Story scenes/sc48.md","x":3760,"y":1920,"width":269,"height":220,"color":"3"},
-		{"type":"file","file":"Voices-WNBW-samples/Story scenes/sc25.md","id":"3075141edd0c6377","x":1120,"y":760,"width":400,"height":294}
+		{"type":"file","file":"Voices-WNBW-samples/Story scenes/sc25.md","id":"3075141edd0c6377","x":1120,"y":760,"width":400,"height":294},
+		{"id":"5e9d6f8339a52fca","type":"text","text":"# VOICES STORY MAP","x":900,"y":-1000,"width":342,"height":68,"color":"2"}
 	],
 	"edges":[
 		{"id":"dc699b222031c68b","fromNode":"10b7ddd0f9cf6501","fromSide":"bottom","toNode":"6a997c7c1d396c2c","toSide":"top"},

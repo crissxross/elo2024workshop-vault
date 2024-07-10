@@ -1,4 +1,4 @@
-nav links: [[START HERE]]
+nav links: [[START HERE]], [[Slides]]
 
 [Starting with Markdown: a flexible extensible hypertext authoring system](https://stars.library.ucf.edu/elo2024/hypertextsandfictions/schedule/24)
 **Christine Wilks**

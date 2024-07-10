@@ -4,9 +4,10 @@ A demo [Obsidian](https://obsidian.md/) vault for the workshop detailed below at
 
 ## Instructions
 
-- Click on the green **Code** button above and select **Download ZIP** to download this repository/vault and unpack.
+- Click on the green **Code** button above and select **Download ZIP** to download this repository/vault and unzip.
 - Install the Obsidian app (free): [Download - Obsidian](https://obsidian.md/download)
-- Launch Obsidian and, when prompted, select **Open folder as vault** then navigate to the **elo2024workshop-vault** folder and open it.
+- Launch Obsidian and, when prompted to add a new vault, select **Open folder as vault**
+- Then navigate to the **elo2024workshop-vault** folder and open it.
 
 ## Workshop
 

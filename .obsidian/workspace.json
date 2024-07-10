@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Sandbox/Workshop exercise.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,6 +67,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "START HERE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae1c2225e982a2c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Workshop - Starting with Markdown - hypertext authoring system - ELO 2024.md",
                 "mode": "source",
                 "source": false
@@ -79,14 +91,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "START HERE.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -152,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "START HERE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "START HERE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "START HERE.md"
               }
             }
           },
@@ -205,11 +217,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 237.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,50 +236,49 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "471e12ef4d3202bd",
+  "active": "b67980eeaf11350c",
   "lastOpenFiles": [
-    "Sandbox/Workshop exercise.md",
-    "Obsidian cheatsheet.md",
     "Workshop - Starting with Markdown - hypertext authoring system - ELO 2024.md",
-    "README.md",
     "START HERE.md",
-    "Demo Kanban.md",
-    "Daily Notes/2024-07-02.md",
-    "Daily Notes/2024-07-03.md",
+    "Attachments/iconEditThisBlock.svg",
+    "Attachments/iconEdit.svg",
+    "Obsidian cheatsheet.md",
+    "Voices-WNBW-samples/Scenes List.md",
+    "Sandbox/Workshop exercise.md",
+    "README.md",
+    "Technical Notes/Markdown.md",
     "Demo canvas.canvas",
     "Daily Notes/2024-07-19.md",
+    "Slides.md",
+    "Demo Kanban.md",
+    "Publishing to HTML.md",
+    "Plugins.md",
+    "Organising content - tags, folders, etc..md",
+    "Templates/newFileTp.md",
+    "Attachments/iconMoreOptions.svg",
+    "Attachments/iconMore.svg",
+    "Voices-WNBW-samples/StoryMapCanvas-1.canvas",
+    "Daily Notes/2024-07-02.md",
+    "Daily Notes/2024-07-03.md",
     "Untitled.md",
     "Attachments/iconNewNote.svg",
     "Attachments/iconGraphView.svg",
-    "Plugins.md",
-    "Organising content - tags, folders, etc..md",
     "Attachments/iconInsertTemplate.svg",
     "Attachments/iconTags.svg",
     "Attachments/iconImporter.svg",
     "Attachments/iconCalendar.svg",
-    "Slides.md",
     "Untitled Kanban.md",
     "Voices-WNBW-samples/ACT-Matrix-Hayley-Frankie.canvas",
-    "Voices-WNBW-samples/StoryMapCanvas-1.canvas",
     "Daily Notes/2024-07-09.md",
-    "Publishing to HTML.md",
-    "Attachments/iconKanban.svg",
     "Demo Kanban board.md",
-    "Attachments/iconSettings.svg",
     "Test file.md",
     "Test 2.md",
     "Voices-WNBW-samples/Story scenes/sc01.md",
     "START HERE.html",
     "Voices-WNBW-samples/Story scenes/sc03.md",
-    "Voices-WNBW-samples/Scenes List.md",
     "Voices-WNBW-samples/The Writing New Body Worlds research project & Voices.md",
-    "Voices-WNBW-samples/All-scenes-YAML.md",
-    "Voices-WNBW-samples/Story scenes/sc19.md",
-    "Voices-WNBW-samples/Story scenes/sc13.md",
-    "Attachments/iconCreateNewCanvas.svg",
     "Sandbox",
     "Daily Notes",
-    "Attachments/voices-cxpic.png",
     "Technical Notes",
     "Voices-WNBW-samples/YAML scene data/sc6-sequences.yaml",
     "Voices-WNBW-samples/YAML scene data/sc6-sequences.json",

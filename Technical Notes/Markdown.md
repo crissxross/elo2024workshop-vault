@@ -41,17 +41,17 @@ Here are some more examples of syntax:
 *Italic text*
 ==Highlighted text==
 
-Internal & external links:
+Internal links (wikilinks) & external links:
 
 ```
 [[Home]]
 
-[Voices](https://writing-new-bodies.web.app/ "Voices")
+[Voices](https://writing-new-bodies.web.app/)
 ```
 
 [[START HERE]]
 
-[Voices](https://writing-new-bodies.web.app/ "Voices")
+[Voices](https://writing-new-bodies.web.app/)
 
 Lists - ordered, unordered and check lists:
 

@@ -1,6 +1,7 @@
 ---
 created: 2024-07-09
 tags:
+  - obsidian
 ---
 nav links: [[START HERE]]
 

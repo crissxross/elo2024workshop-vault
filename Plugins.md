@@ -1,6 +1,7 @@
 ---
 created: 2024-07-08
-tags: 
+tags:
+  - obsidian
 aliases:
   - plugin
 ---
@@ -33,13 +34,19 @@ Create markdown-backed Kanban boards.
 
 ### Auto Link Title
 
-Automatically fetches the titles of links from the web. Simply paste the link into the note.
+Automatically fetches the titles of links from the web. Simply paste the link into a note.
 
 ### Tag Wrangler
 
 Rename, merge, toggle, and search tags from the tag pane.
 
 - Click ![[iconTags.svg]] in right sidebar
+
+### Zotero Integration
+
+Insert and import citations, bibliographies, notes, and PDF annotations from Zotero into Obsidian. Requires the [Better BibTeX for Zotero](https://retorque.re/zotero-better-bibtex/installation/) plugin.
+
+- See [Obsidian Zotero Integration Documentation](https://github.com/mgmeyers/obsidian-zotero-integration/blob/main/docs/README.md).
 
 ### Importer
 
