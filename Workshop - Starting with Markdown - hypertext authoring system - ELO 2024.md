@@ -4,7 +4,7 @@ nav links: [[START HERE]]
 **Christine Wilks**
 **Astrid Ensslin**, _Universität Regensburg_
 Hypertexts & Fictions
-2:15 PM - 3:15 PM (EDT) - **19:15 to 20:15 BST**
+2:15 PM - 3:15 PM (EDT) / 19:15 - 20:15 (BST) on [[2024-07-19]]
 
 ## Abstract
 

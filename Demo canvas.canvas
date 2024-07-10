@@ -8,7 +8,7 @@
 		{"id":"795a20167981d497","type":"text","text":"### An internal note","x":480,"y":-544,"width":240,"height":54},
 		{"id":"ccc76b1b97f17f9a","type":"text","text":"# Demo Canvas","x":200,"y":-680,"width":254,"height":64},
 		{"id":"82a21a3a17d7b7e0","type":"file","file":"Attachments/voices-cxpic.png","x":255,"y":60,"width":400,"height":400},
-		{"id":"e47c2ef6538c3b0b","x":-273,"y":140,"width":451,"height":120,"type":"text","text":"# Turn a card into a note\n\nRight click on the card and select **Convert to file...**"}
+		{"id":"e47c2ef6538c3b0b","type":"text","text":"# Turn a card into a note\n\nRight click on the card and select **Convert to file...**","x":-273,"y":140,"width":451,"height":120}
 	],
 	"edges":[
 		{"id":"d1a5e764a17ca7a4","fromNode":"05f19fe337e0643b","fromSide":"bottom","toNode":"a0a53bfda91950eb","toSide":"top","label":"link"},

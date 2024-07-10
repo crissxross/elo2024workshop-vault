@@ -1,6 +1,6 @@
 ---
 tags:
-  - meta
+  - metadata
 ---
 # YAML Cheatsheet
 

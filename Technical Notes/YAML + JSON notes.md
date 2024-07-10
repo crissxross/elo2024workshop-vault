@@ -1,7 +1,7 @@
 ---
 created: 2021-08-29
 tags:
-  - meta
+  - metadata
 ---
 # YAML + JSON notes
 

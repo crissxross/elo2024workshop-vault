@@ -5,7 +5,8 @@ tags:
 ## Temporary notes to self
 
 - Speaker notes - when presenting slides online, use my iPad with ==Wifi **off**== (so it doesn't interfere with iPhone as webcam)
-- **Insert template** in ribbon (👈 sidebar) 
+- GITHUB REPO - [GitHub - crissxross/elo2024workshop-vault](https://github.com/crissxross/elo2024workshop-vault)
+- [Obsidian](https://obsidian.md/)
 
 ## Map Of Content (MOC)
 
@@ -29,6 +30,7 @@ The aim of the exercise is to see if starting with Markdown and linking notes is
 
 ## Obsidian notes
 
+- [ ] [[Obsidian cheatsheet]] - add more
 - [[Plugins]]
 - [[Publishing to HTML]]
 

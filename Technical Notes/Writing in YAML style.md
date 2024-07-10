@@ -1,7 +1,7 @@
 ---
 created: 2024-05-25 17:07
 tags:
-  - meta
+  - metadata
 ---
 nav links: [[START HERE]], [[YAML + JSON notes]], [[YAML Cheatsheet]], [[Markdown]]
 
