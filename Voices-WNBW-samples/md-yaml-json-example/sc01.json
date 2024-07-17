@@ -1,0 +1,242 @@
+[
+  {
+    "seqNum": 1,
+    "display": true,
+    "convoturns": [
+      {
+        "voiceType": "HayleyThinks",
+        "lexia": "Too tight. Too tight. Wish it was stretchy. Better for sitting all day."
+      },
+      {
+        "voiceType": "HayleyThinks",
+        "lexia": "Why do they make waistbands like this? Cutting me in half."
+      },
+      {
+        "voiceType": "InnerCritic",
+        "lexia": "Disgusting blubber."
+      },
+      {
+        "voiceType": "HayleyThinks",
+        "lexia": "Come on. Fingers on keyboard. F7 to F21. Equals sum... cell ref?"
+      },
+      {
+        "voiceType": "HayleyThinks",
+        "lexia": "Horrible muffin top."
+      },
+      {
+        "voiceType": "InnerCritic",
+        "lexia": "Worse than muffin top. Rolls and rolls of fat. Fat, fat, fat."
+      },
+      {
+        "voiceType": "HayleyThinks",
+        "lexia": "Does this shirt hide it? Pull it down. Cover it."
+      },
+      {
+        "voiceType": "InnerCritic",
+        "lexia": "Huh, fat chance. Fat, fat, fat chance."
+      },
+      {
+        "voiceType": "HayleyThinks",
+        "lexia": "Copy formula... which sheet? Cost-benefit? No. Value chain analysis. Where's that?"
+      },
+      {
+        "voiceType": "InnerCritic",
+        "lexia": "This one, stupid."
+      },
+      {
+        "voiceType": "HayleyThinks",
+        "lexia": "Too tight. Too tight. Why the hell did I wear these chinos for work? Would anyone notice if I unbuttoned?"
+      },
+      {
+        "voiceType": "HayleyThinks",
+        "lexia": "Relief!"
+      },
+      {
+        "voiceType": "HayleyThinks",
+        "lexia": "Okay. Value chain analysis."
+      },
+      {
+        "voiceType": "HayleyThinks",
+        "lexia": "Now the zip's pinching."
+      },
+      {
+        "voiceType": "InnerCritic",
+        "lexia": "Zipper teeth eating blubber"
+      },
+      {
+        "voiceType": "HayleyThinks",
+        "lexia": "What's this? What..? Oh, pivot table."
+      },
+      {
+        "voiceType": "InnerCritic",
+        "lexia": "Hunching. Like a blob. A fat blobby mess at a computer. Sit up straight."
+      },
+      {
+        "voiceType": "Manager",
+        "lexia": "Hayley, a word?"
+      },
+      {
+        "voiceType": "HayleyThinks",
+        "lexia": "Oh no. Did she see?"
+      }
+    ]
+  },
+  {
+    "seqNum": 2,
+    "display": true,
+    "convoturns": [
+      {
+        "voiceType": "HayleySays",
+        "lexia": "Sure."
+      },
+      {
+        "voiceType": "Manager",
+        "lexia": "The cost benefit analysis for Q3, how's it going? I need it ASAP."
+      },
+      {
+        "voiceType": "HayleySays",
+        "lexia": "Sure. Yes, Tracey. Nearly done."
+      },
+      {
+        "voiceType": "Manager",
+        "lexia": "Let me see the figures. How's it shaping up?"
+      },
+      {
+        "voiceType": "HayleySays",
+        "lexia": "It's a bit over."
+      },
+      {
+        "voiceType": "Manager",
+        "lexia": "That won't do. You need to downsize somewhere."
+      },
+      {
+        "voiceType": "InnerCritic",
+        "lexia": "Yeah, belly region."
+      },
+      {
+        "voiceType": "Manager",
+        "lexia": "How about cutting some of this? That's excess to requirements."
+      },
+      {
+        "voiceType": "HayleyThinks",
+        "lexia": "Zip's going."
+      },
+      {
+        "voiceType": "Manager",
+        "lexia": "Shave a bit off there."
+      },
+      {
+        "voiceType": "HayleySays",
+        "lexia": "Incidentals, yes."
+      },
+      {
+        "voiceType": "Manager",
+        "lexia": "Oh my god, there goes Cheryl from HR. What does she think she looks like?"
+      },
+      {
+        "voiceType": "Manager",
+        "lexia": "A woman of her size should not be wearing clingy clothes."
+      },
+      {
+        "voiceType": "HayleyThinks",
+        "lexia": "Is she fatter than me?"
+      },
+      {
+        "voiceType": "Manager",
+        "lexia": "So inappropriate, especially for the office. Does she ever look in the mirror?"
+      },
+      {
+        "voiceType": "HayleyThinks",
+        "lexia": "Never look in the mirror."
+      },
+      {
+        "voiceType": "InnerCritic",
+        "lexia": "Too fat and hideous."
+      },
+      {
+        "voiceType": "Manager",
+        "lexia": "Ugh! Anyway, back to the figures..."
+      },
+      {
+        "voiceType": "HayleySays",
+        "lexia": "I'll downsize, yes."
+      },
+      {
+        "voiceType": "HayleyThinks",
+        "lexia": "Downsize me. Fat chance."
+      },
+      {
+        "voiceType": "Manager",
+        "lexia": "Good. We want a lean operation. Any excess smacks of inefficiency and we don't want that do we, Hayley?"
+      },
+      {
+        "voiceType": "HayleySays",
+        "lexia": "No, Tracey."
+      },
+      {
+        "voiceType": "HayleyThinks",
+        "lexia": "She's looking at my belly. She thinks I'm inefficient."
+      },
+      {
+        "voiceType": "Manager",
+        "lexia": "So, when can I have it?"
+      },
+      {
+        "voiceType": "HayleySays",
+        "lexia": "Soon."
+      },
+      {
+        "voiceType": "Manager",
+        "lexia": "Soon? Come on, Hayley. Clarity."
+      },
+      {
+        "voiceType": "HayleySays",
+        "lexia": "In thirty minutes."
+      },
+      {
+        "voiceType": "Manager",
+        "lexia": "No later. Keep it trim."
+      },
+      {
+        "voiceType": "HayleySays",
+        "lexia": "Yes, Tracey."
+      },
+      {
+        "voiceType": "HayleyThinks",
+        "lexia": "She thinks I'm fat. She saw me undo my waistband. I'm unprofessional. Belly blubber, ugh. I'll never be successful."
+      },
+      {
+        "voiceType": "HayleyPonders",
+        "ponder": [
+          {
+            "lexia": "I should diet",
+            "goToScNum": [
+              [
+                "sc02"
+              ]
+            ],
+            "docilityValue": 1
+          },
+          {
+            "lexia": "I should exercise more",
+            "goToScNum": [
+              [
+                "sc02"
+              ]
+            ],
+            "docilityValue": 1
+          },
+          {
+            "lexia": "I should work harder",
+            "goToScNum": [
+              [
+                "sc02"
+              ]
+            ],
+            "docilityValue": 0.5
+          }
+        ]
+      }
+    ]
+  }
+]

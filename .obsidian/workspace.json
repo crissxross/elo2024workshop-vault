@@ -55,19 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian cheatsheet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b67980eeaf11350c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "START HERE.md",
+                "file": "Technical Notes/Markdown, YAML & JSON.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,14 +79,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Slides.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "START HERE.md",
+                "file": "Sandbox/Workshop exercise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "START HERE.md",
+                "file": "Sandbox/Workshop exercise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "START HERE.md"
+                "file": "Sandbox/Workshop exercise.md"
               }
             }
           },
@@ -217,11 +205,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 237.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,20 +225,33 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b67980eeaf11350c",
+  "active": "cefd01c23eb90a50",
   "lastOpenFiles": [
+    "Slides.md",
+    "Voices-WNBW-samples/md-yaml-json-example/sc01.md",
+    "Voices-WNBW-samples/md-yaml-json-example/sc01.yaml",
+    "Voices-WNBW-samples/md-yaml-json-example/sc01.json",
+    "Voices-WNBW-samples/md-yaml-json-example",
+    "Technical Notes/Markdown.md",
+    "Technical Notes/Markdown, YAML & JSON.md",
+    "Technical Notes/Writing in YAML style.md",
+    "Technical Notes/YAML Cheatsheet.md",
+    "Technical Notes/YAML + JSON notes.md",
+    "README.md",
     "Workshop - Starting with Markdown - hypertext authoring system - ELO 2024.md",
+    "Obsidian cheatsheet.md",
+    "Voices-WNBW-samples/About Voices.md",
     "START HERE.md",
+    "Voices-WNBW-samples/JSON scene data/sc01.json",
+    "Voices-WNBW-samples/JSON scene data/sc01.yaml",
+    "Voices-WNBW-samples/YAML scene data/sc01.yaml",
+    "Voices-WNBW-samples/YAML scene data/sc01.md",
     "Attachments/iconEditThisBlock.svg",
     "Attachments/iconEdit.svg",
-    "Obsidian cheatsheet.md",
     "Voices-WNBW-samples/Scenes List.md",
     "Sandbox/Workshop exercise.md",
-    "README.md",
-    "Technical Notes/Markdown.md",
     "Demo canvas.canvas",
     "Daily Notes/2024-07-19.md",
-    "Slides.md",
     "Demo Kanban.md",
     "Publishing to HTML.md",
     "Plugins.md",
@@ -270,21 +272,9 @@
     "Untitled Kanban.md",
     "Voices-WNBW-samples/ACT-Matrix-Hayley-Frankie.canvas",
     "Daily Notes/2024-07-09.md",
-    "Demo Kanban board.md",
-    "Test file.md",
-    "Test 2.md",
-    "Voices-WNBW-samples/Story scenes/sc01.md",
     "START HERE.html",
-    "Voices-WNBW-samples/Story scenes/sc03.md",
-    "Voices-WNBW-samples/The Writing New Body Worlds research project & Voices.md",
     "Sandbox",
     "Daily Notes",
-    "Technical Notes",
-    "Voices-WNBW-samples/YAML scene data/sc6-sequences.yaml",
-    "Voices-WNBW-samples/YAML scene data/sc6-sequences.json",
-    "Voices-WNBW-samples/YAML scene data/sc1-sequences.yaml",
-    "Voices-WNBW-samples/YAML scene data/sc1-sequences.json",
-    "Voices-WNBW-samples/YAML scene data",
-    "Voices-WNBW-samples/JSON scene data/sc12-sequences.json"
+    "Technical Notes"
   ]
 }

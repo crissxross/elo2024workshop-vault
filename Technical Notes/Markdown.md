@@ -2,7 +2,7 @@
 created: 2024-07-02
 tags:
 ---
-nav links: [[START HERE]]
+nav links: [[START HERE]], [[Markdown, YAML & JSON]]
 
 ## Writing in Markdown
 

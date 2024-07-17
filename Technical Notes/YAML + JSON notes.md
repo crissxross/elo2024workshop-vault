@@ -5,7 +5,7 @@ tags:
 ---
 # YAML + JSON notes
 
-nav links: [[YAML Cheatsheet]], [[Writing in YAML style]], [[START HERE]]
+nav links: [[START HERE]], [[YAML Cheatsheet]], [[Writing in YAML style]], [[Markdown, YAML & JSON]]
 
 ## Converting from yaml to json
 

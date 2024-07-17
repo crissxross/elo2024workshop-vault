@@ -7,8 +7,8 @@ a flexible, extensible hypertext authoring system
 - open file formats
 - future-proof standards
 - open web technology
-- free software
 - no proprietary lock-in
+- free software
 
 ---
 
@@ -43,8 +43,10 @@ A local-first approach
 
 ---
 
-You can open the files in other tools too, making them easy to process:
-- e.g. in [Visual Studio Code](https://code.visualstudio.com/), a free, open-source, code editor
+You can open the files in other tools too, 
+making them easy to process
+<br>
+<small>e.g. in [Visual Studio Code](https://code.visualstudio.com/), a free, open-source, code editor</small>
 
 ---
 
@@ -52,6 +54,12 @@ Other similar tools:
 - [Logseq: A privacy-first, open-source knowledge base](https://logseq.com/)
 - [Dendron](https://www.dendron.so/) - "an open-source, local-first, markdown-based, note-taking tool."
 - [Foam | A personal knowledge management and sharing system for VSCode](https://foambubble.github.io/foam/) - open-source
+
+---
+
+Obsidian uses a plugin architecture
+<br>
+highly extensible and adaptable
 
 ---
 

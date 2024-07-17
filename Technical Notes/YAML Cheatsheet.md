@@ -4,7 +4,7 @@ tags:
 ---
 # YAML Cheatsheet
 
-nav links: [[YAML + JSON notes]]
+nav links: [[START HERE]], [[YAML + JSON notes]], [[Markdown, YAML & JSON]]
 source: http://lzone.de/cheat-sheet/YAML
 
 #### Links to YAML resources
