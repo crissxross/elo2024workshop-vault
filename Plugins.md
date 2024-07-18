@@ -11,19 +11,20 @@ nav links: [[START HERE]], [[About Voices]]
 
 Go to **Settings** ![[iconSettings.svg]] (bottom left sidebar) to find out more about core and community plugins.
 
-### Dataview
-
-[Dataview](https://blacksmithgu.github.io/obsidian-dataview/#/) lets you query data from your vault, treating it as a database.
-
-- Here's an example: [[Scenes List#Table of scenes automatically generated using Dataview plugin]]
-- Also see: [An Introduction to Dataview - Obsidian Hub - Obsidian Publish](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/Guides/An+Introduction+to+Dataview)
-
 ### Calendar
 
 This [obsidian-calendar-plugin](https://github.com/liamcain/obsidian-calendar-plugin) offers a calendar view of your daily notes in the right sidebar - click ![[iconCalendar.svg]] to show calendar.
 
-- Click on a date to create a daily note for that date.
 - Dots under a date signify the existence of a daily note.
+- Click on a date to create a daily note for that date.
+- A daily note created in this way will be placed automatically in the `Daily Notes` folder and have the appropriate date heading (see `dailyTp` in `Templates` folder).
+
+### Dataview
+
+[Dataview](https://blacksmithgu.github.io/obsidian-dataview/#/) lets you query data from your vault, treating it as a database.
+
+- Here's an example: [[Scenes List#Table of scenes automatically generated using Dataview Plugins plugin]]
+- Also see: [An Introduction to Dataview - Obsidian Hub - Obsidian Publish](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/Guides/An+Introduction+to+Dataview)
 
 ### Kanban
 

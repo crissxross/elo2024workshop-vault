@@ -8,24 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "58796e46bfc6e1d8",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Demo Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              }
-            }
-          },
-          {
             "id": "146347931c17357e",
             "type": "leaf",
             "state": {
@@ -55,19 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Notes/Markdown, YAML & JSON.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae1c2225e982a2c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Workshop - Starting with Markdown - hypertext authoring system - ELO 2024.md",
+                "file": "START HERE.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -152,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sandbox/Workshop exercise.md",
+                "file": "Slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sandbox/Workshop exercise.md",
+                "file": "Slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sandbox/Workshop exercise.md"
+                "file": "Slides.md"
               }
             }
           },
@@ -225,53 +195,53 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "cefd01c23eb90a50",
+  "active": "471e12ef4d3202bd",
   "lastOpenFiles": [
+    "START HERE.md",
+    "Technical Notes/Markdown, YAML & JSON.md",
     "Slides.md",
+    "Sandbox/Workshop exercise.md",
+    "Voices-WNBW-samples/Scenes List.md",
+    "Demo Kanban.md",
+    "Plugins.md",
+    "Publishing to HTML.md",
+    "Organising content - tags, folders, etc..md",
+    "new note changed.md",
+    "Voices-WNBW-samples/Story scenes/sc01.md",
+    "Technical Notes/Markdown.md",
+    "Attachments/Voices-ELO2023.002.jpeg",
+    "Attachments/voices-cxpic.png",
+    "Attachments/VoicesExhibit_elo2023_IMG_5036.jpeg",
+    "README.md",
+    "Workshop - Starting with Markdown - hypertext authoring system - ELO 2024.md",
+    "Daily Notes/2024-07-02.md",
+    "Daily Notes/2024-07-03.md",
+    "Demo canvas.canvas",
+    "Voices-WNBW-samples/StoryMapCanvas-1.canvas",
+    "Voices-WNBW-samples/About Voices.md",
+    "Voices-WNBW-samples/All-scenes-YAML.md",
+    "Voices-WNBW-samples/ACT-Matrix-Hayley-Frankie.canvas",
+    "Obsidian cheatsheet.md",
     "Voices-WNBW-samples/md-yaml-json-example/sc01.md",
     "Voices-WNBW-samples/md-yaml-json-example/sc01.yaml",
     "Voices-WNBW-samples/md-yaml-json-example/sc01.json",
     "Voices-WNBW-samples/md-yaml-json-example",
-    "Technical Notes/Markdown.md",
-    "Technical Notes/Markdown, YAML & JSON.md",
     "Technical Notes/Writing in YAML style.md",
     "Technical Notes/YAML Cheatsheet.md",
     "Technical Notes/YAML + JSON notes.md",
-    "README.md",
-    "Workshop - Starting with Markdown - hypertext authoring system - ELO 2024.md",
-    "Obsidian cheatsheet.md",
-    "Voices-WNBW-samples/About Voices.md",
-    "START HERE.md",
     "Voices-WNBW-samples/JSON scene data/sc01.json",
     "Voices-WNBW-samples/JSON scene data/sc01.yaml",
     "Voices-WNBW-samples/YAML scene data/sc01.yaml",
     "Voices-WNBW-samples/YAML scene data/sc01.md",
     "Attachments/iconEditThisBlock.svg",
     "Attachments/iconEdit.svg",
-    "Voices-WNBW-samples/Scenes List.md",
-    "Sandbox/Workshop exercise.md",
-    "Demo canvas.canvas",
     "Daily Notes/2024-07-19.md",
-    "Demo Kanban.md",
-    "Publishing to HTML.md",
-    "Plugins.md",
-    "Organising content - tags, folders, etc..md",
     "Templates/newFileTp.md",
     "Attachments/iconMoreOptions.svg",
     "Attachments/iconMore.svg",
-    "Voices-WNBW-samples/StoryMapCanvas-1.canvas",
-    "Daily Notes/2024-07-02.md",
-    "Daily Notes/2024-07-03.md",
-    "Untitled.md",
     "Attachments/iconNewNote.svg",
     "Attachments/iconGraphView.svg",
     "Attachments/iconInsertTemplate.svg",
-    "Attachments/iconTags.svg",
-    "Attachments/iconImporter.svg",
-    "Attachments/iconCalendar.svg",
-    "Untitled Kanban.md",
-    "Voices-WNBW-samples/ACT-Matrix-Hayley-Frankie.canvas",
-    "Daily Notes/2024-07-09.md",
     "START HERE.html",
     "Sandbox",
     "Daily Notes",
